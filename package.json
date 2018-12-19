@@ -1,0 +1,14 @@
+{
+  "name": "hiring",
+  "version": "0.0.0-beta",
+  "description": "require hiring? your next is here",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiaweilee/hiring.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiaweilee/hiring/issues"
+  },
+  "homepage": "https://github.com/chiaweilee/hiring#readme"
+}
