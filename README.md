@@ -13,6 +13,6 @@ join this project, let them find you.*
 
 *done!*
 
-## Who wanna hiring?
+## Who wanna be hiring?
 
 see https://github.com/chiaweilee/hiring/network/dependents
