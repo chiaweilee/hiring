@@ -12,3 +12,7 @@ join this project, let them find you.*
 `npm install hiring -D`
 
 *done!*
+
+## Who wanna hiring?
+
+see https://github.com/chiaweilee/hiring/network/dependents
